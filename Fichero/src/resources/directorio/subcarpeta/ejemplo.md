@@ -1,0 +1,1 @@
+ejemplo de fichero creado en subcarpeta del directorio
